@@ -1,5 +1,5 @@
 # OldPortRender
-Animated render of a scene from the Old Port in Portland Maine
+Animated render of a scene from the Old Port in Portland Maine.
 
 Screen shot:
 ![Render of the Old Port, Portland ME](https://github.com/JCTurner91/OldPortRender/blob/main/FinalProjectSC.png)
